@@ -1,5 +1,7 @@
 
 ![Screenshot of Hapop icon](icon.jpg)
+<img src="icon.jpg" alt="Screenshot of Hapop icon" width="100" height="100">
+
 
 # Hapop
 Access your most important files blazingly fast in VS Code.
