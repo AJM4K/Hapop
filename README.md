@@ -1,6 +1,5 @@
 
-![Screenshot of Hapop icon](icon.jpg)
-<img src="icon.jpg" alt="Screenshot of Hapop icon" width="100" height="100">
+<img src="icon.jpg" alt="Screenshot of Hapop icon" width="300" height="300">
 
 
 # Hapop
@@ -44,9 +43,13 @@ Developed by Ahmed Mahdi, Hapop was initially created for personal use but is no
 - Currently, it's possible to add the same file to the list multiple times.
 
 ## Release Notes
+![Screenshot of Hapop icon](icon.jpg)
+
 
 ### 1.0.0
 
 - Initial release of Hapop in 2024.
 
 Enjoy the enhanced productivity with Hapop! If you encounter any issues or have feature requests, feel free to reach out through GitHub or email.
+
+
