@@ -1,6 +1,7 @@
 
 <img src="icon.jpg" alt="Screenshot of Hapop icon" width="300" height="300">
 
+<a href="https://marketplace.visualstudio.com/items?itemName=AJM4K.Hapop"> vs code link extension</a>
 
 # Hapop
 Access your most important files blazingly fast in VS Code.
