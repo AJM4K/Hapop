@@ -5,9 +5,6 @@
 Access your most important files blazingly fast in VS Code.
 # Hapop README
 
-## Screenshots
-
-![Screenshot of Hapop in action](screenshots/hapop.png)
 
 ## Overview
 
